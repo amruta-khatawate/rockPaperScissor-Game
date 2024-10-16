@@ -24,6 +24,6 @@ Welcome to the **Rock-Paper-Scissors** game, a fun and interactive web-based gam
 
 
 ## 📸 Screenshots
-*(Add any screenshots here to showcase the UI)*
+![Screenshot](images/Screenshot.png)
 
 
